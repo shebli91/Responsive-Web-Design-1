@@ -36,6 +36,18 @@ h2 {
 p {
   margin-top: 0;
 }
+
+.col-1 {
+  width: 25%;
+}
+
+.col-2 {
+  width: 50%;
+}
+
+.col-3 {
+  width: 75%;
+}
 .col-right {
   background-color: #312614;
   padding: 0.5em;
